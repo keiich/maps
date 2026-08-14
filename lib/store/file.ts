@@ -1,5 +1,6 @@
 import { randomUUID } from 'node:crypto';
 import { mkdir, readFile, rename, writeFile } from 'node:fs/promises';
+import os from 'node:os';
 import path from 'node:path';
 
 import type { Report, ReportInput } from '../types';
@@ -15,7 +16,11 @@ interface FileShape {
   reports: StoredReport[];
 }
 
-const DATA_DIR = path.join(process.cwd(), '.data');
+// サーバーレス環境では書き込めるのは一時ディレクトリだけなので、そちらへ逃がす。
+// （そもそも永続化されないので、DB を設定するまでの繋ぎ）
+const DATA_DIR = process.env.VERCEL
+  ? path.join(os.tmpdir(), 'chian-map')
+  : path.join(process.cwd(), '.data');
 const DATA_FILE = path.join(DATA_DIR, 'reports.json');
 
 /**

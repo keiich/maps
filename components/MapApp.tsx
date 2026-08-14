@@ -29,7 +29,13 @@ export interface LayerState {
 
 export type Bbox = [number, number, number, number];
 
-export default function MapApp({ official }: { official: OfficialPayload }) {
+export default function MapApp({
+  official,
+  persistent,
+}: {
+  official: OfficialPayload;
+  persistent: boolean;
+}) {
   const [layers, setLayers] = useState<LayerState>({ official: true, reports: true });
   const [metric, setMetric] = useState<Metric>('rate');
   const [filters, setFilters] = useState<Filters>({ categories: new Set(), days: 0 });
@@ -145,6 +151,7 @@ export default function MapApp({ official }: { official: OfficialPayload }) {
         <Sidebar
           open={sidebarOpen}
           official={official}
+          persistent={persistent}
           layers={layers}
           onLayersChange={setLayers}
           metric={metric}

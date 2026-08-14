@@ -16,6 +16,7 @@ const PERIODS: Array<{ label: string; days: number }> = [
 interface Props {
   open: boolean;
   official: OfficialPayload;
+  persistent: boolean;
   layers: LayerState;
   onLayersChange: (next: LayerState) => void;
   metric: Metric;
@@ -30,6 +31,7 @@ interface Props {
 export default function Sidebar({
   open,
   official,
+  persistent,
   layers,
   onLayersChange,
   metric,
@@ -49,6 +51,16 @@ export default function Sidebar({
 
   return (
     <aside className="sidebar" data-open={open}>
+      {!persistent && (
+        <div className="notice">
+          <strong>データベースが設定されていません。</strong>
+          <br />
+          投稿は一時的に保存されるだけで、しばらくすると消えます。永続化するには環境変数
+          <code> DATABASE_URL </code>
+          に Postgres の接続文字列を設定してください。
+        </div>
+      )}
+
       {official.dataStatus === 'sample' && (
         <div className="notice">
           <strong>サンプルデータを表示しています。</strong>
