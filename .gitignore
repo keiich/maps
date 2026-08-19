@@ -10,3 +10,6 @@ build/
 next-env.d.ts
 .DS_Store
 .vercel
+
+# 変換済みの行動履歴（個人の位置情報そのものなので入れない）
+data/timeline.json
