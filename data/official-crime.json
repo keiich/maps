@@ -1,10 +1,10 @@
 {
-  "dataStatus": "sample",
-  "period": "サンプル",
-  "sourceName": "サンプルデータ（実際の統計ではありません）",
+  "dataStatus": "official",
+  "period": "令和7年（2025年）",
+  "sourceName": "警視庁 区市町村の町丁別、罪種別及び手口別認知件数（令和7年）",
   "sourceUrl": "https://www.keishicho.metro.tokyo.lg.jp/about_mpd/jokyo_tokei/jokyo/ninchikensu.html",
-  "license": "-",
-  "retrievedAt": "2024-04-01T00:00:00.000Z",
+  "license": "CC BY 4.0",
+  "retrievedAt": "2026-11-19T01:29:05.125Z",
   "crimeTypes": [
     {
       "key": "violent",
@@ -39,14 +39,14 @@
       "lng": 139.7536,
       "population": 67000,
       "counts": {
-        "violent": 3,
-        "assault": 23,
-        "burglary": 15,
-        "theft": 240,
-        "fraud": 41,
-        "other": 78
+        "violent": 20,
+        "assault": 362,
+        "burglary": 57,
+        "theft": 1392,
+        "fraud": 509,
+        "other": 625
       },
-      "total": 400
+      "total": 2965
     },
     {
       "code": "13102",
@@ -55,14 +55,14 @@
       "lng": 139.772,
       "population": 173000,
       "counts": {
-        "violent": 10,
-        "assault": 105,
-        "burglary": 84,
-        "theft": 873,
-        "fraud": 123,
-        "other": 260
+        "violent": 21,
+        "assault": 221,
+        "burglary": 103,
+        "theft": 1105,
+        "fraud": 362,
+        "other": 335
       },
-      "total": 1455
+      "total": 2147
     },
     {
       "code": "13103",
@@ -71,14 +71,14 @@
       "lng": 139.7514,
       "population": 260000,
       "counts": {
-        "violent": 26,
-        "assault": 154,
-        "burglary": 162,
-        "theft": 1680,
-        "fraud": 264,
-        "other": 441
+        "violent": 60,
+        "assault": 545,
+        "burglary": 83,
+        "theft": 1584,
+        "fraud": 572,
+        "other": 700
       },
-      "total": 2727
+      "total": 3544
     },
     {
       "code": "13104",
@@ -87,14 +87,14 @@
       "lng": 139.7036,
       "population": 346000,
       "counts": {
-        "violent": 31,
-        "assault": 222,
-        "burglary": 222,
-        "theft": 2753,
-        "fraud": 282,
-        "other": 755
+        "violent": 137,
+        "assault": 1016,
+        "burglary": 184,
+        "theft": 3787,
+        "fraud": 746,
+        "other": 1107
       },
-      "total": 4265
+      "total": 6977
     },
     {
       "code": "13105",
@@ -103,14 +103,14 @@
       "lng": 139.7524,
       "population": 240000,
       "counts": {
-        "violent": 21,
-        "assault": 177,
-        "burglary": 135,
-        "theft": 1522,
-        "fraud": 291,
-        "other": 361
+        "violent": 10,
+        "assault": 149,
+        "burglary": 26,
+        "theft": 615,
+        "fraud": 310,
+        "other": 219
       },
-      "total": 2507
+      "total": 1329
     },
     {
       "code": "13106",
@@ -119,14 +119,14 @@
       "lng": 139.78,
       "population": 211000,
       "counts": {
-        "violent": 12,
-        "assault": 123,
-        "burglary": 65,
-        "theft": 918,
-        "fraud": 160,
-        "other": 313
+        "violent": 30,
+        "assault": 326,
+        "burglary": 64,
+        "theft": 1747,
+        "fraud": 228,
+        "other": 398
       },
-      "total": 1591
+      "total": 2793
     },
     {
       "code": "13107",
@@ -135,14 +135,14 @@
       "lng": 139.8015,
       "population": 275000,
       "counts": {
-        "violent": 31,
-        "assault": 202,
-        "burglary": 169,
-        "theft": 1722,
-        "fraud": 349,
-        "other": 437
+        "violent": 22,
+        "assault": 186,
+        "burglary": 48,
+        "theft": 1244,
+        "fraud": 207,
+        "other": 285
       },
-      "total": 2910
+      "total": 1992
     },
     {
       "code": "13108",
@@ -152,13 +152,13 @@
       "population": 524000,
       "counts": {
         "violent": 24,
-        "assault": 296,
-        "burglary": 161,
-        "theft": 2337,
-        "fraud": 362,
-        "other": 579
+        "assault": 266,
+        "burglary": 45,
+        "theft": 2247,
+        "fraud": 368,
+        "other": 506
       },
-      "total": 3759
+      "total": 3456
     },
     {
       "code": "13109",
@@ -167,14 +167,14 @@
       "lng": 139.7302,
       "population": 407000,
       "counts": {
-        "violent": 35,
-        "assault": 248,
-        "burglary": 218,
-        "theft": 2301,
-        "fraud": 308,
-        "other": 619
+        "violent": 24,
+        "assault": 212,
+        "burglary": 61,
+        "theft": 1249,
+        "fraud": 288,
+        "other": 391
       },
-      "total": 3729
+      "total": 2225
     },
     {
       "code": "13110",
@@ -183,14 +183,14 @@
       "lng": 139.6982,
       "population": 288000,
       "counts": {
-        "violent": 17,
-        "assault": 161,
-        "burglary": 168,
-        "theft": 1720,
-        "fraud": 220,
-        "other": 476
+        "violent": 10,
+        "assault": 118,
+        "burglary": 42,
+        "theft": 728,
+        "fraud": 205,
+        "other": 277
       },
-      "total": 2762
+      "total": 1380
     },
     {
       "code": "13111",
@@ -199,14 +199,14 @@
       "lng": 139.7161,
       "population": 733000,
       "counts": {
-        "violent": 66,
-        "assault": 500,
-        "burglary": 342,
-        "theft": 5497,
-        "fraud": 580,
-        "other": 1358
+        "violent": 28,
+        "assault": 322,
+        "burglary": 144,
+        "theft": 2635,
+        "fraud": 426,
+        "other": 566
       },
-      "total": 8343
+      "total": 4121
     },
     {
       "code": "13112",
@@ -215,14 +215,14 @@
       "lng": 139.6533,
       "population": 917000,
       "counts": {
-        "violent": 48,
-        "assault": 374,
-        "burglary": 349,
-        "theft": 3010,
-        "fraud": 525,
-        "other": 801
+        "violent": 32,
+        "assault": 335,
+        "burglary": 82,
+        "theft": 2977,
+        "fraud": 498,
+        "other": 675
       },
-      "total": 5107
+      "total": 4599
     },
     {
       "code": "13113",
@@ -231,14 +231,14 @@
       "lng": 139.6982,
       "population": 230000,
       "counts": {
-        "violent": 23,
-        "assault": 217,
-        "burglary": 152,
-        "theft": 1580,
-        "fraud": 203,
-        "other": 412
+        "violent": 66,
+        "assault": 469,
+        "burglary": 99,
+        "theft": 2462,
+        "fraud": 455,
+        "other": 721
       },
-      "total": 2587
+      "total": 4272
     },
     {
       "code": "13114",
@@ -248,13 +248,13 @@
       "population": 344000,
       "counts": {
         "violent": 24,
-        "assault": 255,
-        "burglary": 240,
-        "theft": 2198,
-        "fraud": 342,
-        "other": 613
+        "assault": 221,
+        "burglary": 73,
+        "theft": 1238,
+        "fraud": 219,
+        "other": 360
       },
-      "total": 3672
+      "total": 2135
     },
     {
       "code": "13115",
@@ -264,13 +264,13 @@
       "population": 573000,
       "counts": {
         "violent": 24,
-        "assault": 229,
-        "burglary": 149,
-        "theft": 1738,
-        "fraud": 200,
-        "other": 458
+        "assault": 189,
+        "burglary": 60,
+        "theft": 1592,
+        "fraud": 295,
+        "other": 387
       },
-      "total": 2798
+      "total": 2547
     },
     {
       "code": "13116",
@@ -279,14 +279,14 @@
       "lng": 139.7166,
       "population": 291000,
       "counts": {
-        "violent": 13,
-        "assault": 97,
-        "burglary": 82,
-        "theft": 1179,
-        "fraud": 172,
-        "other": 311
+        "violent": 63,
+        "assault": 376,
+        "burglary": 94,
+        "theft": 2517,
+        "fraud": 455,
+        "other": 516
       },
-      "total": 1854
+      "total": 4021
     },
     {
       "code": "13117",
@@ -295,14 +295,14 @@
       "lng": 139.7336,
       "population": 355000,
       "counts": {
-        "violent": 14,
-        "assault": 134,
-        "burglary": 134,
-        "theft": 1081,
-        "fraud": 199,
-        "other": 322
+        "violent": 15,
+        "assault": 217,
+        "burglary": 57,
+        "theft": 1440,
+        "fraud": 346,
+        "other": 367
       },
-      "total": 1884
+      "total": 2442
     },
     {
       "code": "13118",
@@ -311,14 +311,14 @@
       "lng": 139.7833,
       "population": 217000,
       "counts": {
-        "violent": 11,
-        "assault": 114,
-        "burglary": 64,
-        "theft": 953,
-        "fraud": 120,
-        "other": 244
+        "violent": 13,
+        "assault": 159,
+        "burglary": 26,
+        "theft": 874,
+        "fraud": 172,
+        "other": 207
       },
-      "total": 1506
+      "total": 1451
     },
     {
       "code": "13119",
@@ -327,14 +327,14 @@
       "lng": 139.709,
       "population": 573000,
       "counts": {
-        "violent": 19,
-        "assault": 253,
-        "burglary": 138,
-        "theft": 1487,
-        "fraud": 347,
-        "other": 532
+        "violent": 39,
+        "assault": 293,
+        "burglary": 83,
+        "theft": 2170,
+        "fraud": 344,
+        "other": 563
       },
-      "total": 2776
+      "total": 3492
     },
     {
       "code": "13120",
@@ -343,14 +343,14 @@
       "lng": 139.6518,
       "population": 738000,
       "counts": {
-        "violent": 44,
-        "assault": 575,
-        "burglary": 455,
-        "theft": 5269,
-        "fraud": 515,
-        "other": 1256
+        "violent": 22,
+        "assault": 301,
+        "burglary": 106,
+        "theft": 2300,
+        "fraud": 429,
+        "other": 514
       },
-      "total": 8114
+      "total": 3672
     },
     {
       "code": "13121",
@@ -359,14 +359,14 @@
       "lng": 139.8044,
       "population": 692000,
       "counts": {
-        "violent": 73,
-        "assault": 613,
-        "burglary": 405,
-        "theft": 6133,
-        "fraud": 756,
-        "other": 1553
+        "violent": 51,
+        "assault": 437,
+        "burglary": 136,
+        "theft": 2826,
+        "fraud": 411,
+        "other": 756
       },
-      "total": 9533
+      "total": 4617
     },
     {
       "code": "13122",
@@ -375,14 +375,14 @@
       "lng": 139.8471,
       "population": 464000,
       "counts": {
-        "violent": 23,
-        "assault": 152,
-        "burglary": 144,
-        "theft": 1770,
-        "fraud": 228,
-        "other": 315
+        "violent": 12,
+        "assault": 205,
+        "burglary": 66,
+        "theft": 2281,
+        "fraud": 309,
+        "other": 436
       },
-      "total": 2632
+      "total": 3309
     },
     {
       "code": "13123",
@@ -391,14 +391,14 @@
       "lng": 139.8683,
       "population": 685000,
       "counts": {
-        "violent": 46,
-        "assault": 354,
-        "burglary": 334,
-        "theft": 4202,
-        "fraud": 447,
-        "other": 1288
+        "violent": 47,
+        "assault": 290,
+        "burglary": 105,
+        "theft": 2972,
+        "fraud": 343,
+        "other": 618
       },
-      "total": 6671
+      "total": 4375
     },
     {
       "code": "13201",
@@ -407,14 +407,14 @@
       "lng": 139.316,
       "population": 578000,
       "counts": {
-        "violent": 57,
-        "assault": 448,
-        "burglary": 258,
-        "theft": 3829,
-        "fraud": 724,
-        "other": 1181
+        "violent": 33,
+        "assault": 202,
+        "burglary": 109,
+        "theft": 1889,
+        "fraud": 263,
+        "other": 514
       },
-      "total": 6497
+      "total": 3010
     },
     {
       "code": "13202",
@@ -423,14 +423,14 @@
       "lng": 139.4076,
       "population": 185000,
       "counts": {
-        "violent": 10,
-        "assault": 94,
-        "burglary": 61,
-        "theft": 661,
-        "fraud": 85,
-        "other": 165
+        "violent": 31,
+        "assault": 114,
+        "burglary": 33,
+        "theft": 1111,
+        "fraud": 168,
+        "other": 233
       },
-      "total": 1076
+      "total": 1690
     },
     {
       "code": "13203",
@@ -439,14 +439,14 @@
       "lng": 139.5661,
       "population": 148000,
       "counts": {
-        "violent": 9,
-        "assault": 90,
-        "burglary": 63,
-        "theft": 735,
-        "fraud": 136,
-        "other": 272
+        "violent": 11,
+        "assault": 102,
+        "burglary": 26,
+        "theft": 909,
+        "fraud": 159,
+        "other": 146
       },
-      "total": 1305
+      "total": 1353
     },
     {
       "code": "13204",
@@ -455,14 +455,14 @@
       "lng": 139.5595,
       "population": 195000,
       "counts": {
-        "violent": 7,
-        "assault": 90,
-        "burglary": 44,
-        "theft": 684,
-        "fraud": 83,
-        "other": 218
+        "violent": 9,
+        "assault": 65,
+        "burglary": 20,
+        "theft": 475,
+        "fraud": 125,
+        "other": 135
       },
-      "total": 1126
+      "total": 829
     },
     {
       "code": "13205",
@@ -471,14 +471,14 @@
       "lng": 139.2758,
       "population": 130000,
       "counts": {
-        "violent": 9,
-        "assault": 101,
-        "burglary": 53,
-        "theft": 685,
-        "fraud": 145,
-        "other": 263
+        "violent": 5,
+        "assault": 32,
+        "burglary": 29,
+        "theft": 426,
+        "fraud": 61,
+        "other": 105
       },
-      "total": 1256
+      "total": 658
     },
     {
       "code": "13206",
@@ -487,14 +487,14 @@
       "lng": 139.4778,
       "population": 262000,
       "counts": {
-        "violent": 21,
-        "assault": 164,
-        "burglary": 151,
-        "theft": 1448,
-        "fraud": 336,
-        "other": 620
+        "violent": 12,
+        "assault": 95,
+        "burglary": 32,
+        "theft": 768,
+        "fraud": 122,
+        "other": 193
       },
-      "total": 2740
+      "total": 1222
     },
     {
       "code": "13207",
@@ -503,14 +503,14 @@
       "lng": 139.3536,
       "population": 113000,
       "counts": {
-        "violent": 11,
-        "assault": 104,
-        "burglary": 75,
-        "theft": 1013,
-        "fraud": 99,
-        "other": 206
+        "violent": 8,
+        "assault": 47,
+        "burglary": 29,
+        "theft": 585,
+        "fraud": 34,
+        "other": 115
       },
-      "total": 1508
+      "total": 818
     },
     {
       "code": "13208",
@@ -519,14 +519,14 @@
       "lng": 139.5409,
       "population": 240000,
       "counts": {
-        "violent": 23,
-        "assault": 222,
-        "burglary": 118,
-        "theft": 1958,
-        "fraud": 293,
-        "other": 583
+        "violent": 10,
+        "assault": 75,
+        "burglary": 31,
+        "theft": 868,
+        "fraud": 134,
+        "other": 182
       },
-      "total": 3197
+      "total": 1300
     },
     {
       "code": "13209",
@@ -535,14 +535,14 @@
       "lng": 139.4386,
       "population": 431000,
       "counts": {
-        "violent": 17,
-        "assault": 198,
-        "burglary": 103,
-        "theft": 1872,
-        "fraud": 170,
-        "other": 513
+        "violent": 21,
+        "assault": 156,
+        "burglary": 144,
+        "theft": 1611,
+        "fraud": 293,
+        "other": 461
       },
-      "total": 2873
+      "total": 2686
     },
     {
       "code": "13210",
@@ -551,14 +551,14 @@
       "lng": 139.503,
       "population": 125000,
       "counts": {
-        "violent": 9,
-        "assault": 114,
-        "burglary": 63,
-        "theft": 783,
-        "fraud": 148,
-        "other": 279
+        "violent": 7,
+        "assault": 40,
+        "burglary": 11,
+        "theft": 412,
+        "fraud": 30,
+        "other": 100
       },
-      "total": 1396
+      "total": 600
     },
     {
       "code": "13211",
@@ -567,14 +567,14 @@
       "lng": 139.4774,
       "population": 196000,
       "counts": {
-        "violent": 13,
-        "assault": 150,
-        "burglary": 110,
-        "theft": 1006,
-        "fraud": 147,
-        "other": 389
+        "violent": 7,
+        "assault": 69,
+        "burglary": 28,
+        "theft": 687,
+        "fraud": 117,
+        "other": 132
       },
-      "total": 1815
+      "total": 1040
     },
     {
       "code": "13212",
@@ -584,13 +584,13 @@
       "population": 189000,
       "counts": {
         "violent": 8,
-        "assault": 60,
-        "burglary": 41,
-        "theft": 678,
-        "fraud": 71,
-        "other": 125
+        "assault": 59,
+        "burglary": 44,
+        "theft": 478,
+        "fraud": 183,
+        "other": 170
       },
-      "total": 983
+      "total": 942
     },
     {
       "code": "13213",
@@ -599,14 +599,14 @@
       "lng": 139.4685,
       "population": 150000,
       "counts": {
-        "violent": 8,
-        "assault": 80,
-        "burglary": 57,
-        "theft": 668,
-        "fraud": 74,
-        "other": 179
+        "violent": 3,
+        "assault": 50,
+        "burglary": 27,
+        "theft": 436,
+        "fraud": 115,
+        "other": 120
       },
-      "total": 1066
+      "total": 751
     },
     {
       "code": "13214",
@@ -615,14 +615,14 @@
       "lng": 139.4623,
       "population": 129000,
       "counts": {
-        "violent": 6,
-        "assault": 55,
-        "burglary": 30,
-        "theft": 432,
-        "fraud": 51,
-        "other": 97
+        "violent": 8,
+        "assault": 56,
+        "burglary": 25,
+        "theft": 434,
+        "fraud": 31,
+        "other": 95
       },
-      "total": 671
+      "total": 649
     },
     {
       "code": "13215",
@@ -631,14 +631,14 @@
       "lng": 139.4413,
       "population": 77000,
       "counts": {
-        "violent": 3,
-        "assault": 34,
+        "violent": 6,
+        "assault": 18,
         "burglary": 19,
-        "theft": 238,
-        "fraud": 51,
-        "other": 66
+        "theft": 270,
+        "fraud": 57,
+        "other": 61
       },
-      "total": 411
+      "total": 431
     },
     {
       "code": "13218",
@@ -648,13 +648,13 @@
       "population": 56000,
       "counts": {
         "violent": 3,
-        "assault": 47,
+        "assault": 35,
         "burglary": 25,
-        "theft": 389,
-        "fraud": 46,
-        "other": 110
+        "theft": 290,
+        "fraud": 34,
+        "other": 62
       },
-      "total": 620
+      "total": 449
     },
     {
       "code": "13219",
@@ -663,14 +663,14 @@
       "lng": 139.5786,
       "population": 84000,
       "counts": {
-        "violent": 3,
-        "assault": 35,
-        "burglary": 18,
-        "theft": 252,
-        "fraud": 32,
-        "other": 52
+        "violent": 1,
+        "assault": 11,
+        "burglary": 9,
+        "theft": 227,
+        "fraud": 52,
+        "other": 54
       },
-      "total": 392
+      "total": 354
     },
     {
       "code": "13220",
@@ -679,14 +679,14 @@
       "lng": 139.4266,
       "population": 84000,
       "counts": {
-        "violent": 9,
-        "assault": 67,
-        "burglary": 53,
-        "theft": 422,
-        "fraud": 88,
-        "other": 129
+        "violent": 1,
+        "assault": 30,
+        "burglary": 18,
+        "theft": 374,
+        "fraud": 50,
+        "other": 87
       },
-      "total": 768
+      "total": 560
     },
     {
       "code": "13221",
@@ -695,14 +695,14 @@
       "lng": 139.5262,
       "population": 75000,
       "counts": {
-        "violent": 6,
-        "assault": 52,
-        "burglary": 37,
-        "theft": 369,
-        "fraud": 67,
-        "other": 106
+        "violent": 7,
+        "assault": 21,
+        "burglary": 9,
+        "theft": 317,
+        "fraud": 61,
+        "other": 62
       },
-      "total": 637
+      "total": 477
     },
     {
       "code": "13222",
@@ -711,14 +711,14 @@
       "lng": 139.5296,
       "population": 116000,
       "counts": {
-        "violent": 5,
-        "assault": 47,
-        "burglary": 35,
-        "theft": 293,
-        "fraud": 43,
-        "other": 107
+        "violent": 6,
+        "assault": 31,
+        "burglary": 32,
+        "theft": 494,
+        "fraud": 64,
+        "other": 101
       },
-      "total": 530
+      "total": 728
     },
     {
       "code": "13223",
@@ -727,14 +727,14 @@
       "lng": 139.3875,
       "population": 71000,
       "counts": {
-        "violent": 5,
-        "assault": 27,
-        "burglary": 25,
-        "theft": 248,
-        "fraud": 42,
-        "other": 90
+        "violent": 4,
+        "assault": 34,
+        "burglary": 26,
+        "theft": 341,
+        "fraud": 41,
+        "other": 57
       },
-      "total": 437
+      "total": 503
     },
     {
       "code": "13224",
@@ -743,14 +743,14 @@
       "lng": 139.4462,
       "population": 148000,
       "counts": {
-        "violent": 15,
-        "assault": 105,
-        "burglary": 72,
-        "theft": 1051,
-        "fraud": 142,
-        "other": 296
+        "violent": 2,
+        "assault": 82,
+        "burglary": 35,
+        "theft": 476,
+        "fraud": 130,
+        "other": 118
       },
-      "total": 1681
+      "total": 843
     },
     {
       "code": "13225",
@@ -759,14 +759,14 @@
       "lng": 139.5046,
       "population": 94000,
       "counts": {
-        "violent": 8,
-        "assault": 79,
-        "burglary": 60,
-        "theft": 494,
-        "fraud": 91,
-        "other": 156
+        "violent": 2,
+        "assault": 26,
+        "burglary": 15,
+        "theft": 229,
+        "fraud": 63,
+        "other": 51
       },
-      "total": 888
+      "total": 386
     },
     {
       "code": "13227",
@@ -775,14 +775,14 @@
       "lng": 139.311,
       "population": 54000,
       "counts": {
-        "violent": 4,
-        "assault": 32,
-        "burglary": 21,
-        "theft": 249,
-        "fraud": 47,
-        "other": 108
+        "violent": 1,
+        "assault": 17,
+        "burglary": 12,
+        "theft": 302,
+        "fraud": 42,
+        "other": 47
       },
-      "total": 461
+      "total": 421
     },
     {
       "code": "13228",
@@ -791,14 +791,14 @@
       "lng": 139.2938,
       "population": 79000,
       "counts": {
-        "violent": 4,
-        "assault": 56,
-        "burglary": 29,
-        "theft": 342,
-        "fraud": 68,
-        "other": 132
+        "violent": 3,
+        "assault": 32,
+        "burglary": 15,
+        "theft": 267,
+        "fraud": 52,
+        "other": 79
       },
-      "total": 631
+      "total": 448
     },
     {
       "code": "13229",
@@ -807,14 +807,14 @@
       "lng": 139.5385,
       "population": 207000,
       "counts": {
-        "violent": 17,
-        "assault": 158,
-        "burglary": 115,
-        "theft": 1461,
-        "fraud": 199,
-        "other": 400
+        "violent": 4,
+        "assault": 58,
+        "burglary": 41,
+        "theft": 834,
+        "fraud": 108,
+        "other": 134
       },
-      "total": 2350
+      "total": 1179
     },
     {
       "code": "13303",
@@ -823,14 +823,14 @@
       "lng": 139.3556,
       "population": 32000,
       "counts": {
-        "violent": 3,
-        "assault": 30,
-        "burglary": 17,
-        "theft": 182,
-        "fraud": 30,
-        "other": 45
+        "violent": 2,
+        "assault": 13,
+        "burglary": 4,
+        "theft": 134,
+        "fraud": 22,
+        "other": 28
       },
-      "total": 307
+      "total": 203
     },
     {
       "code": "13305",
@@ -840,13 +840,13 @@
       "population": 17000,
       "counts": {
         "violent": 1,
-        "assault": 13,
-        "burglary": 13,
-        "theft": 109,
-        "fraud": 22,
-        "other": 37
+        "assault": 7,
+        "burglary": 0,
+        "theft": 106,
+        "fraud": 4,
+        "other": 17
       },
-      "total": 195
+      "total": 135
     },
     {
       "code": "13307",
@@ -856,13 +856,13 @@
       "population": 2000,
       "counts": {
         "violent": 0,
-        "assault": 2,
-        "burglary": 1,
-        "theft": 16,
-        "fraud": 2,
-        "other": 3
+        "assault": 1,
+        "burglary": 0,
+        "theft": 5,
+        "fraud": 1,
+        "other": 4
       },
-      "total": 24
+      "total": 11
     },
     {
       "code": "13308",
@@ -872,13 +872,13 @@
       "population": 4700,
       "counts": {
         "violent": 0,
-        "assault": 2,
-        "burglary": 2,
-        "theft": 17,
-        "fraud": 3,
-        "other": 6
+        "assault": 1,
+        "burglary": 0,
+        "theft": 4,
+        "fraud": 2,
+        "other": 2
       },
-      "total": 30
+      "total": 9
     }
   ]
 }
